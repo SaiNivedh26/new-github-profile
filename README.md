@@ -23,6 +23,5 @@ Artificial Intelligence student @ Amrita Vishwa Vidyapeetham
 
 
 
-![Sai Nivedh's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaiNivedh26&theme=dark&show_icons=true&&hide=issues,contribs)
 
 [![Sai Nivedh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SaiNivedh26&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
